@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\учеба\С#семинары\задача11\bin\Debug\net6.0\задача11.exe
+C:\Users\Asus\Desktop\учеба\С#семинары\задача11\bin\Debug\net6.0\задача11.deps.json
+C:\Users\Asus\Desktop\учеба\С#семинары\задача11\bin\Debug\net6.0\задача11.runtimeconfig.json
+C:\Users\Asus\Desktop\учеба\С#семинары\задача11\bin\Debug\net6.0\задача11.dll
+C:\Users\Asus\Desktop\учеба\С#семинары\задача11\bin\Debug\net6.0\задача11.pdb
+C:\Users\Asus\Desktop\учеба\С#семинары\задача11\obj\Debug\net6.0\задача11.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\учеба\С#семинары\задача11\obj\Debug\net6.0\задача11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\учеба\С#семинары\задача11\obj\Debug\net6.0\задача11.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\учеба\С#семинары\задача11\obj\Debug\net6.0\задача11.AssemblyInfo.cs
+C:\Users\Asus\Desktop\учеба\С#семинары\задача11\obj\Debug\net6.0\задача11.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\учеба\С#семинары\задача11\obj\Debug\net6.0\задача11.dll
+C:\Users\Asus\Desktop\учеба\С#семинары\задача11\obj\Debug\net6.0\refint\задача11.dll
+C:\Users\Asus\Desktop\учеба\С#семинары\задача11\obj\Debug\net6.0\задача11.pdb
+C:\Users\Asus\Desktop\учеба\С#семинары\задача11\obj\Debug\net6.0\задача11.genruntimeconfig.cache
+C:\Users\Asus\Desktop\учеба\С#семинары\задача11\obj\Debug\net6.0\ref\задача11.dll
